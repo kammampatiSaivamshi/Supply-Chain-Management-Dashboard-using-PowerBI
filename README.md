@@ -109,5 +109,12 @@ jupyter notebook "SUPPLY CHAIN MANAGEMENT.ipynb"
 
 **Kammampati Saivamshi**
 *Aspiring Data Scientist*
- Reach me on [LinkedIn](https://www.linkedin.com)
+
+Reach me on
+[LinkedIn](https://www.linkedin.com/in/kammampati-saivamshi-/)    
+
+[GitHub](https://github.com/kammampatiSaivamshi)
+
+
+
 
